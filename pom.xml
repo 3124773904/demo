@@ -84,7 +84,12 @@
             <artifactId>commons-collections4</artifactId>
             <version>4.1</version>
         </dependency>
-
+<!--猫猫-->
+        <dependency>
+            <groupId>love.forte.simbot.component</groupId>
+            <artifactId>simbot-component-mirai-extra-catcode</artifactId>
+            <version>3.0.0.0-beta-M2</version>
+        </dependency>
 
 
 
