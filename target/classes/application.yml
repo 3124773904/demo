@@ -1,5 +1,0 @@
-simbot:
-  # 自定义配置bot资源文件的扫描路径。
-  # 默认为 'classpath:simbot-bots/*.bot*'
-  bot-configuration-resources:
-    - 'classpath:simbot-bots/*_bot.yml'
